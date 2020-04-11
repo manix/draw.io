@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-04-11T08:37:26.356Z" agent="5.0 (X11)" version="12.9.10" etag="sXp06E2omNyMtSpX35dE" type="github"><diagram id="PO89F5J9e4oOj91kgy6v">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-11T08:41:45.381Z" agent="5.0 (X11)" etag="6pY9P_0Di8_ZoLDBmirk" version="12.9.10" type="github">
+  <diagram id="PO89F5J9e4oOj91kgy6v" name="Page-1">
+    <mxGraphModel dx="981" dy="515" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6B22yaTO-XXWdCHrTvbX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6B22yaTO-XXWdCHrTvbX-1" target="6B22yaTO-XXWdCHrTvbX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6B22yaTO-XXWdCHrTvbX-1" value="&lt;div&gt;GPIO16&lt;/div&gt;&lt;div&gt;(Pin 36)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159" y="394.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6B22yaTO-XXWdCHrTvbX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6B22yaTO-XXWdCHrTvbX-2" target="6B22yaTO-XXWdCHrTvbX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6B22yaTO-XXWdCHrTvbX-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.simple_switch;" vertex="1" parent="1">
+          <mxGeometry x="484" y="408" width="75" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="6B22yaTO-XXWdCHrTvbX-4" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;" vertex="1" parent="1">
+          <mxGeometry x="619" y="444" width="25" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

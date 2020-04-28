@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T11:51:57.024Z" agent="5.0 (X11)" etag="MxlZNARLhfw2MfvllQOp" version="13.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-28T11:52:59.775Z" agent="5.0 (X11)" etag="1xXobLoIivSuV3DF0BwH" version="13.0.2" type="github">
   <diagram id="u8wLbShaxyiLM3BCwqH7" name="Page-1">
     <mxGraphModel dx="1422" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ddd" math="0" shadow="1">
       <root>
@@ -26,7 +26,7 @@
             <Array as="points">
               <mxPoint x="200" y="410" />
               <mxPoint x="200" y="320" />
-              <mxPoint x="100" y="320" />
+              <mxPoint x="117" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -99,8 +99,8 @@
             <mxPoint x="90" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="olHemjVTQkQkQrX9j7TI-30" value="3.3k&lt;span class=&quot;about-info-box__info-value&quot;&gt;Ω&lt;/span&gt;" style="pointerEvents=1;verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.resistors.resistor_2;direction=north;labelPosition=right;horizontal=0;spacingLeft=-10;spacingRight=0;" parent="1" vertex="1">
-          <mxGeometry x="89.99999999999999" y="206.25" width="20" height="100" as="geometry" />
+        <mxCell id="olHemjVTQkQkQrX9j7TI-30" value="3.3k&lt;span class=&quot;about-info-box__info-value&quot;&gt;Ω&lt;/span&gt;" style="pointerEvents=1;verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.resistors.resistor_2;direction=north;labelPosition=left;horizontal=0;spacingLeft=-10;spacingRight=0;" parent="1" vertex="1">
+          <mxGeometry x="106.99999999999999" y="206.25" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="olHemjVTQkQkQrX9j7TI-32" value="&lt;div&gt;Charge&lt;/div&gt;&lt;div&gt;On/Off&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="30" y="20" width="120" height="60" as="geometry" />
